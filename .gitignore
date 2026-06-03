@@ -1,0 +1,14 @@
+target/
+.mvn/
+.settings/
+.classpath
+.project
+
+*.log
+
+.idea/
+.vscode/
+
+application-local.properties
+
+.DS_Store
