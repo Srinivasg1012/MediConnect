@@ -23,9 +23,4 @@ A Spring Boot multi-tenant provisioning platform.
 
 ## Current Progress
 
-Day 1 - Project Setup
-Day 2 - Dynamic Database Creation
-Day 3 - Dynamic Table Creation
-Day 4 - Tenant Registry
-Day 5 - Validation & Exception Handling
-Day 6 - Logging & Transactions
+Project Setup,Dynamic Database Creation,Dynamic Table Creation,Tenant Registry,Validation & Exception Handling,Logging & Transactions
